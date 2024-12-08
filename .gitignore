@@ -1,0 +1,5 @@
+# Exclure les fichiers .pyc générés par Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
